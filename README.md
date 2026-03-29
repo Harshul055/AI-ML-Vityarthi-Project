@@ -27,7 +27,7 @@ The tool generates a realistic synthetic dataset of 12,000 student records in-me
 Make sure you have Python 3.7 or above installed. Then install the required libraries:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib
+pip install -r requirements.txt
 ```
 
 That's it. No dataset downloads. No API keys. No setup files.
@@ -151,6 +151,6 @@ charts/
 
 ## Author
 
-**ANMOL KUMAR | 25BCE11219**
+**Harshul Agarwal | 25BCE11080**
 
 The problem was chosen because rank prediction is something literally every JEE student needs after their exam, and existing tools are either overly simplistic or behind paywalls.
